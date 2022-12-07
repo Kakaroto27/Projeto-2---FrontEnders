@@ -31,7 +31,7 @@ O objetivo deste segundo projeto em grupo era criar um produto para a empresa Fr
 
 ## Demonstração
 
-Link do GitHub pages para abrir a página direto do navegador sem precisar instalar nada: https://github.com/Kakaroto27/Projeto-2---FrontEnders
+Link do GitHub pages para abrir a página direto do navegador sem precisar instalar nada: [https://github.com/Kakaroto27/Projeto-2---FrontEnders](https://kakaroto27.github.io/Projeto-2---FrontEnders/)
 
 
 ## Instalação
